@@ -2,11 +2,16 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.png
+*.csv
+*.pdf
 
 # C extensions
 *.so
 
 # Distribution / packaging
+.idea
+.ipynb_checkpoints
 .Python
 build/
 develop-eggs/
